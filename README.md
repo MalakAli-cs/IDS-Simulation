@@ -32,5 +32,9 @@
   * Easy
   * Used for educational purpose
   * Real time alerting
+## Developers:
+Malak Aldahoomah, Zainab Altaib, Malak Alharazi, Asmaa Humaid, and Manal Alnihmi
+### Domain:
+Cybersecurity - Embadded Systems
 
 
